@@ -1,0 +1,34 @@
+full:
+  - scout
+  - scout-alfa
+  - scout-bravo
+  - planner
+  - designer
+  - builder
+  - crafter
+  - reviewer
+  - documenter
+  - tavily
+  - sparky
+  - devops
+
+plan-build:
+  - scout
+  - scout-alfa
+  - scout-bravo
+  - planner
+  - builder
+  - crafter
+  - reviewer
+  - tavily
+
+info:
+  - scout
+  - scout-alfa
+  - scout-bravo
+  - documenter
+  - reviewer
+  - tavily
+
+brainstorm:
+  - sparky

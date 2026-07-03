@@ -1,0 +1,28 @@
+# Secrets
+agent/auth.json
+agent/models.json
+
+# Sessions
+agent/sessions/
+
+# Cache
+agent/mcp-cache.json
+agent/npm/
+agent/tmp/
+
+# Personal config
+agent/telegram.json
+agent/telegram-locks.json
+
+# OS
+.DS_Store
+**/.DS_Store
+
+# Node
+node_modules/
+**/node_modules/
+
+# Backups
+*.backup
+*.bak
+agent/extensions/bak/

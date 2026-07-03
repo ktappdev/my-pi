@@ -1,0 +1,15 @@
+builder: windsurf/kimi-k2.7
+crafter: windsurf/kimi-k2.7
+designer: windsurf/kimi-k2.7
+devops: ocg1/deepseek-v4-flash
+documenter: windsurf/swe-1.6:base
+mcp-specialist: QwenCodingPlan/qwen3-coder-next
+oracle: openai-codex/gpt-5.3-codex
+planner: windsurf/glm-5.2
+reviewer: openai-codex/gpt-5.5
+scout: windsurf/kimi-k2.7
+scout-alfa: ocg1/deepseek-v4-flash
+scout-bravo: ocg1/deepseek-v4-flash
+sparky: opencode/big-pickle
+subagents: ocg2/deepseek-v4-flash
+tavily: ocg1/deepseek-v4-flash

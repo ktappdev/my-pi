@@ -1,0 +1,19 @@
+{
+  "lastChangelogVersion": "0.80.2",
+  "theme": "rose-pine",
+  "defaultThinkingLevel": "off",
+  "agentTeamViewMode": "table",
+  "packages": [],
+  "quietStartup": false,
+  "treeFilterMode": "all",
+  "transport": "auto",
+  "thinkingBudgets": {
+    "minimal": 1024,
+    "low": 4096,
+    "medium": 10240,
+    "high": 32768,
+    "xhigh": 81920
+  },
+  "steeringMode": "all",
+  "followUpMode": "all"
+}
